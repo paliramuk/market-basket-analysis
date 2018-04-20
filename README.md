@@ -1,14 +1,16 @@
 # market-basket-analysis
 Kaggle Instacart Purchase Prediction Challenge
 
-**Proposal:** Potential questions to explore predicting for project.
+_**I would direct you to look at the ["Features"](https://github.com/sean-io/market-basket-analysis/blob/master/Features.ipynb) file if you select one file to review.**_
 
-**Summary:** Provides basic information for each data source provided. 
+**[Proposal:](https://github.com/sean-io/market-basket-analysis/blob/master/Proposal.ipynb)** Potential questions to explore predicting for project.
 
-**EDA:** Exploration of data with visulizations. 
+**[Summary:](https://github.com/sean-io/market-basket-analysis/blob/master/Data%20Summary.ipynb)** Provides basic information for each data source provided. 
 
-**Features:** Creation of custom variables to aid in purchase prediction. 
+**[EDA:](https://github.com/sean-io/market-basket-analysis/blob/master/EDA.ipynb)** Exploration of data with visulizations. 
 
-**Reorder Prediction:** Model tuning and evaluation. 
+**[Features:](https://github.com/sean-io/market-basket-analysis/blob/master/Features.ipynb)** Creation of custom variables to aid in purchase prediction. 
 
-**Presentation (User Purchase Pred):** Slides providing a summarized project overview.
+**[Reorder Prediction:](https://github.com/sean-io/market-basket-analysis/blob/master/Reorder_Prediction.ipynb)** Model tuning and evaluation. 
+
+**[Presentation (User Purchase Pred):](https://github.com/sean-io/market-basket-analysis/blob/master/Presentation%20(User%20Purchase%20Pred).pdf)** Slides providing a summarized project overview.
